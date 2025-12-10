@@ -1,4 +1,7 @@
+# Ignore everything by default in storage/app...
 *
 !private/
+# ...but keep the public disk so uploaded assets are versioned with the codebase.
 !public/
+!public/**
 !.gitignore

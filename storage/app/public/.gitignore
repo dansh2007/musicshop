@@ -1,2 +1,2 @@
-*
+# Track uploaded assets in storage/app/public so they are available after cloning.
 !.gitignore
